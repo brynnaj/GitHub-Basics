@@ -1,0 +1,9 @@
+1. Explain what the terminal is in your own words.
+
+The terminal is a command line interface where the user can type commands, control files and documents.
+
+2. What is the major difference between Git and GitHub?
+
+GIT is a version control system where users can keep track of their code and history. GitHub is a service in which 
+
+3.  What are the steps to fork a GitHub repository?
